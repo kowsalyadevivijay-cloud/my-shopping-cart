@@ -6,13 +6,14 @@
 
 Browse products, save favourites, and check out in seconds.
 
-![React]
-![Vite]
-![Tailwind CSS]
-![JavaScript]
-![Netlify]
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
 
-[**Live Demo**](https://shopease-cart-app.netlify.app) · [**Report a Bug**](https://github.com/kowsalyadevivijay-cloud/my-shopping-cart/issues)
+
+[**Live Demo**](https://shopease-cart-app.netlify.app) ·
 
 </div>
 
