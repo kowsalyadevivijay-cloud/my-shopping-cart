@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # 🛍️ ShopEase
 
@@ -7,13 +7,14 @@
 Browse products, save favourites, and check out in seconds.
 
 ![React]
-![Vite](https://img.shields.io/badge/Vite-Build_Tool-646CFF?logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Styling-06B6D4?logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
-![Netlify](https://img.shields.io/badge/Deployed_on-Netlify-00C7B7?logo=netlify&logoColor=white)
+![Vite]
+![Tailwind CSS]
+![JavaScript]
+![Netlify]
 
-[**Live Demo**](https://your-site-name.netlify.app) 
+[**Live Demo**](https://your-site-name.netlify.app) · [**Report a Bug**](https://github.com/your-username/my-shopping-cart/issues)
 
+---
 
 ## 📖 About
 
@@ -36,7 +37,7 @@ The project focuses on clean component structure, reusable custom hooks, and a s
   - Subtotal, shipping fee and total amount
   - Clear entire cart
 
-### Extras
+
 
 - 🔍 **Search** by product name, with **voice search** in supported browsers
 - 🗂️ **Category filters** and **sorting** by price, rating or name
@@ -53,7 +54,7 @@ The project focuses on clean component structure, reusable custom hooks, and a s
 | React | UI components and state management |
 | Vite | Development server and build tool |
 | Tailwind CSS | Styling and responsive design |
-| JavaScript (ES6+) | Application logic |
+| JavaScript | Application logic |
 | Fake Store API | Product data |
 
 ## 📁 Project Structure
@@ -132,14 +133,7 @@ The app is deployed on Netlify. To deploy your own copy:
 
 ## 👤 Author
 
-**Your Name**
 
 - GitHub: [@your-username](https://github.com/your-username)
 
----
 
-<div align="center">
-
-If you like this project, consider giving it a ⭐
-
-</div>
