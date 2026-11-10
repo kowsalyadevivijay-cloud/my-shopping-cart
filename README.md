@@ -1,4 +1,4 @@
-
+<div align="center">
 
 # 🛍️ ShopEase
 
@@ -12,7 +12,9 @@ Browse products, save favourites, and check out in seconds.
 ![JavaScript]
 ![Netlify]
 
-[**Live Demo**](https://your-site-name.netlify.app) · [**Report a Bug**](https://github.com/your-username/my-shopping-cart/issues)
+[**Live Demo**](https://shopease-cart-app.netlify.app) · [**Report a Bug**](https://github.com/kowsalyadevivijay-cloud/my-shopping-cart/issues)
+
+</div>
 
 ---
 
@@ -37,7 +39,7 @@ The project focuses on clean component structure, reusable custom hooks, and a s
   - Subtotal, shipping fee and total amount
   - Clear entire cart
 
-
+other features
 
 - 🔍 **Search** by product name, with **voice search** in supported browsers
 - 🗂️ **Category filters** and **sorting** by price, rating or name
@@ -82,7 +84,7 @@ src/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/my-shopping-cart.git
+git clone https://github.com/kowsalyadevivijay-cloud/my-shopping-cart.git
 
 # 2. Move into the project folder
 cd my-shopping-cart
@@ -133,7 +135,6 @@ The app is deployed on Netlify. To deploy your own copy:
 
 ## 👤 Author
 
+**Kowsalya Devi**
 
-- GitHub: [@your-username](https://github.com/your-username)
-
-
+- GitHub: [@kowsalyadevivijay-cloud](https://github.com/kowsalyadevivijay-cloud)
